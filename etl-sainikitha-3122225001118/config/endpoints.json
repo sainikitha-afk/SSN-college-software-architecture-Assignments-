@@ -1,0 +1,9 @@
+{
+  "feeds": {
+    "malware_urls": "https://threats.cert.at/downloads/data/feeds/malware_urls.csv",
+    "phishing_urls": "https://threats.cert.at/downloads/data/feeds/phishing_urls.csv",
+    "botnet_cc_ips": "https://threats.cert.at/downloads/data/feeds/botnet_cc_ips.csv",
+    "open_ports": "https://threats.cert.at/downloads/data/feeds/open_ports.csv",
+    "ransomware_domains": "https://threats.cert.at/downloads/data/feeds/ransomware_domains.csv"
+  }
+}
